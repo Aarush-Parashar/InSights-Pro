@@ -1,4 +1,4 @@
-# 📊 CSV Predictor App
+# **InSights-Pro**:📊 CSV Predictor App
 
 An intelligent Flutter app that allows users to upload `.csv` files and perform Machine Learning-based **Prediction**, **Visualization**, and **Forecasting** – either with AI assistance or through manual configuration.
 
